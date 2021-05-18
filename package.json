@@ -1,0 +1,23 @@
+{
+  "name": "hardhat-tutortial",
+  "version": "1.0.0",
+  "description": "## Development  We are using node 12 here, `nvm use 12`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mischat/hardhat-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mischat/hardhat-tutorial/issues"
+  },
+  "homepage": "https://github.com/mischat/hardhat-tutorial#readme",
+  "devDependencies": {
+    "hardhat": "^2.3.0"
+  }
+}
